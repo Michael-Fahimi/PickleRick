@@ -3,7 +3,7 @@ A Jetpack Compose Android application that allows users to browse characters and
 Show Image
 
 
-<imge 
+
 <img src="https://github.com/user-attachments/assets/a7a4dbeb-b4aa-4cd9-987a-fb88a76289d6" alt="Image 1" width="300" height="auto">
 <img src="https://github.com/user-attachments/assets/90115c99-e5c3-4f0b-9f3b-65dfdcda3f8d" alt="Image 2" width="300" height="auto">
 <img src="https://github.com/user-attachments/assets/f98a210b-1f3a-4206-a2d4-50ccd0a62313" alt="Image 3" width="300" height="auto">

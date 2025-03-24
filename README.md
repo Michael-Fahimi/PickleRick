@@ -1,10 +1,11 @@
 # Rick and Morty Explorer App
 A Jetpack Compose Android application that allows users to browse characters and episodes from the Rick and Morty universe using the official Rick and Morty API.
 Show Image
-![WhatsApp Image 2025-03-24 at 8 40 51 AM](https://github.com/user-attachments/assets/a7a4dbeb-b4aa-4cd9-987a-fb88a76289d6)
-![WhatsApp Image 2025-03-24 at 8 40 51 AM (3)](https://github.com/user-attachments/assets/90115c99-e5c3-4f0b-9f3b-65dfdcda3f8d)
-![WhatsApp Image 2025-03-24 at 8 40 51 AM (2)](https://github.com/user-attachments/assets/f98a210b-1f3a-4206-a2d4-50ccd0a62313)
-![WhatsApp Image 2025-03-24 at 8 40 51 AM (1)](https://github.com/user-attachments/assets/ae8908d4-a070-45aa-a67a-42917063e3f7)
+<imge 
+<img src="https://github.com/user-attachments/assets/a7a4dbeb-b4aa-4cd9-987a-fb88a76289d6" alt="Image 1" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/90115c99-e5c3-4f0b-9f3b-65dfdcda3f8d" alt="Image 2" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/f98a210b-1f3a-4206-a2d4-50ccd0a62313" alt="Image 3" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/ae8908d4-a070-45aa-a67a-42917063e3f7" alt="Image 4" width="300" height="auto">
 
 ## Features
 

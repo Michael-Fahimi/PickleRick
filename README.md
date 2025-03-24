@@ -6,7 +6,7 @@ Show Image
 ![WhatsApp Image 2025-03-24 at 8 40 51 AM (2)](https://github.com/user-attachments/assets/f98a210b-1f3a-4206-a2d4-50ccd0a62313)
 ![WhatsApp Image 2025-03-24 at 8 40 51 AM (1)](https://github.com/user-attachments/assets/ae8908d4-a070-45aa-a67a-42917063e3f7)
 
-Features
+## Features
 
 📱 Modern UI built with Jetpack Compose
 🧠 MVVM architecture
@@ -15,7 +15,7 @@ Features
 📄 Pagination support for browsing large datasets
 🎨 Material Design 3 theming
 
-App Structure
+## App Structure
 Main Screens
 The app has four main sections accessible through the bottom navigation:
 
@@ -24,14 +24,14 @@ Episodes - Browse all episodes with pagination
 Search Characters - Find specific characters by name
 Search Episodes - Find specific episodes by name
 
-Architecture
+## Architecture
 This app follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 Model: Data classes representing API responses (Character, Episode)
 View: Compose UI screens and components
 ViewModel: Manages UI-related data and communicates with the API
 
-Technical Implementation
+## Technical Implementation
 API Integration
 The app uses Retrofit to communicate with the Rick and Morty API:
 
@@ -43,26 +43,26 @@ Endpoints:
 
 
 
-Navigation
+## Navigation
 Navigation is implemented using the Jetpack Navigation Compose library:
 
 Bottom navigation bar for switching between main sections
 NavHost for managing screen transitions
 
-UI Components
+## UI Components
 
 Material 3 components (Cards, Buttons, TextFields)
 LazyColumn for efficient list rendering
 Coil for image loading
 TopAppBar with pagination controls
 
-Setup Instructions
+## Setup Instructions
 
 Clone the repository
 Open the project in Android Studio
 Run the app on an emulator or physical device
 
-Dependencies
+## Dependencies
 
 Jetpack Compose
 Navigation Compose
@@ -71,7 +71,7 @@ Coil for image loading
 Material 3 Components
 Kotlin Coroutines & Flow
 
-Code Structure
+## Code Structure
 The app is organized into several packages:
 
 data: Contains model classes and API service interfaces
